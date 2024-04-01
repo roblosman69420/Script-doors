@@ -1,0 +1,3 @@
+start
+game.Players.LocalPlayer:Kick("April fools")
+end
